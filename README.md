@@ -1,4 +1,4 @@
-## Hi there 👋
+## “Should we fear hackers? Intention is at the heart of this discussion.” — Kevin Mitnick
 
 <!--
 **UmbraDeorum/UmbraDeorum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
