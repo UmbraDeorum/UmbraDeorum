@@ -14,13 +14,27 @@ Here are some ideas to get you started:
 
 Github Stats: https://github.com/anuraghazra/github-readme-stats
 -->
-
+<!--
 <div>
 <img align="center" alt="Cyber Warfare" src="https://github.com/UmbraDeorum/UmbraDeorum/blob/main/cyber-arsenalwebp.jpg"/><img style="visibility:hidden;" height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
 
 </div>
 
 <br>
+-->
+
+<br>
+
+<details open>
+  <br>
+  <summary>:zap: <strong>GitHub Stats</strong> </summary>
+    <div>
+      <img alt="Umbr4Dε0rum's GitHub stats" src="https://github-readme-stats-umbradeorum.vercel.app/api?username=UmbraDeorum&theme=tokyonight&show=discussions_started" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img alt="Umbr4Dε0rum's Top Langs" src="https://github-readme-stats-umbradeorum.vercel.app/api/top-langs/?username=UmbraDeorum&theme=tokyonight&size_weight=0.5&count_weight=0.5&langs_count=3" />
+<!--[![Umbr4Dε0rum's GitHub stats](https://github-readme-stats-umbradeorums-projects.vercel.app/api?username=UmbraDeorum&theme=tokyonight&show=discussions_started)](https://github.com/UmbraDeorum)-->
+    </div>
+<!--[![Top Langs](https://github-readme-stats-umbradeorums-projects.vercel.app/api/top-langs/?username=UmbraDeorum&theme=tokyonight&size_weight=0.5&count_weight=0.5&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)-->
+</details>
 
 <div>
 <img style="float: left; object-fit: cover;" src="https://img.shields.io/badge/Hack_The_Box--66FF00?style=for-the-badge&logo=hackthebox&logoSize=auto&label=Hack%20The%20Box&link=https%3A%2F%2Fapp.hackthebox.com%2Fprofile%2F361071" alt="UmbraDeorum on HackTheBox" />
@@ -41,18 +55,6 @@ Github Stats: https://github.com/anuraghazra/github-readme-stats
 <img height="32" width="32" src="https://cdn.simpleicons.org/android?viewbox=auto" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/haveibeenpwned/0000/ffff?viewbox=auto" />
 </div>
-
-<br>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-    <div>
-      <img alt="Umbr4Dε0rum's GitHub stats" src="https://github-readme-stats-umbradeorum.vercel.app/api?username=UmbraDeorum&theme=tokyonight&show=discussions_started" />
-      <img alt="Umbr4Dε0rum's Top Langs" src="https://github-readme-stats-umbradeorum.vercel.app/api/top-langs/?username=UmbraDeorum&theme=tokyonight&size_weight=0.5&count_weight=0.5&langs_count=3" />
-<!--[![Umbr4Dε0rum's GitHub stats](https://github-readme-stats-umbradeorums-projects.vercel.app/api?username=UmbraDeorum&theme=tokyonight&show=discussions_started)](https://github.com/UmbraDeorum)-->
-    </div>
-<!--[![Top Langs](https://github-readme-stats-umbradeorums-projects.vercel.app/api/top-langs/?username=UmbraDeorum&theme=tokyonight&size_weight=0.5&count_weight=0.5&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)-->
-</details>
 
 <br>
 
