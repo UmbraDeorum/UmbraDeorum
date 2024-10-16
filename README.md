@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Github Stats: https://github.com/anuraghazra/github-readme-stats
 -->
+
+[![Umbr4Dε0rum](https://github.com/UmbraDeorum/UmbraDeorum/blob/main/cyber-arsenalwebp.jpg)](https://github.com/UmbraDeorum)
+
+[![Umbr4Dε0rum's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmbraDeorum&theme=tokyonight&show=discussions_started)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
