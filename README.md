@@ -37,8 +37,8 @@ Github Stats: https://github.com/anuraghazra/github-readme-stats
 </details>
 
 <div>
-<img style="float: left; object-fit: cover;" src="https://img.shields.io/badge/Hack_The_Box--66FF00?style=for-the-badge&logo=hackthebox&logoSize=auto&label=Hack%20The%20Box&link=https%3A%2F%2Fapp.hackthebox.com%2Fprofile%2F361071" alt="UmbraDeorum on HackTheBox" />
-<img style="object-fit: cover;" src="https://img.shields.io/badge/Try_Hack_Me--%23EF0107?style=for-the-badge&logo=tryhackme&logoSize=auto&label=TryHackMe&link=https%3A%2F%2Fapp.hackthebox.com%2Fprofile%2F361071" alt="UmbraDeorum on TryHackMe" /><br><br>
+<a href="https://app.hackthebox.com/profile/361071"><img style="float: left; object-fit: cover;" src="https://img.shields.io/badge/Hack_The_Box--66FF00?style=for-the-badge&logo=hackthebox&logoSize=auto&label=Hack%20The%20Box&link=https%3A%2F%2Fapp.hackthebox.com%2Fprofile%2F361071" alt="UmbraDeorum on HackTheBox" /></a>
+<a href="https://tryhackme.com/p/UmbraDeorum"><img style="object-fit: cover;" src="https://img.shields.io/badge/Try_Hack_Me--%23EF0107?style=for-the-badge&logo=tryhackme&logoSize=auto&label=TryHackMe&link=https%3A%2F%2Fapp.hackthebox.com%2Fprofile%2F361071" alt="UmbraDeorum on TryHackMe" /></a><br><br>
 <img height="46" width="46" src="https://github.com/UmbraDeorum/UmbraDeorum/blob/main/haveibeenpwned-rot.png" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/python?viewbox=auto" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/c?viewbox=auto" />
