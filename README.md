@@ -60,12 +60,11 @@ Github Stats: https://github.com/anuraghazra/github-readme-stats
 
 <br>
 
-> “Should we fear hackers? Intention is at the heart of this discussion.”
->
-> -- <cite> Kevin Mitnick
+[//]: # ( > “Should we fear hackers? Intention is at the heart of this discussion.” )
+[//]: # ( > )
+[//]: # ( > -- <cite> Kevin Mitnick )
 
-<br>
-
+<p style="font-size=14; font-weight:bold;"> Welcome, and may your day be filled with... </p>
 <div>
 <img height="32" width="32" src="https://cdn.simpleicons.org/undertale?viewbox=auto" /><img src="https://github.com/user-attachments/assets/2c5e7b7c-c502-446e-b0a1-b264a98739c4" /><img height="32" width="32" src="https://cdn.simpleicons.org/undertale?viewbox=auto" />  
 </div>
