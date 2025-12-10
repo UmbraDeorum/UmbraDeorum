@@ -48,11 +48,13 @@ Github Stats: https://github.com/anuraghazra/github-readme-stats
 <img height="32" width="32" src="https://cdn.simpleicons.org/owasp/0000/ffff?viewbox=auto" /> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/burpsuite?viewbox=auto" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/wireshark?viewbox=auto" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/virtualbox?viewbox=auto" /> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/virtualbox?viewbox=auto" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/qemu?viewbox=auto" /> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/metasploit?viewbox=auto" /> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/debian?viewbox=auto" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/linux?viewbox=auto" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/android?viewbox=auto" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/ios/0000/ffff?viewbox=auto" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/haveibeenpwned/0000/ffff?viewbox=auto" />
 </div>
 
@@ -61,3 +63,10 @@ Github Stats: https://github.com/anuraghazra/github-readme-stats
 > “Should we fear hackers? Intention is at the heart of this discussion.”
 >
 > -- <cite> Kevin Mitnick
+
+<br>
+
+<div>
+<img height="32" width="32" src="https://cdn.simpleicons.org/undertale?viewbox=auto" /><img src="https://github.com/user-attachments/assets/2c5e7b7c-c502-446e-b0a1-b264a98739c4" /><img height="32" width="32" src="https://cdn.simpleicons.org/undertale?viewbox=auto" />  
+</div>
+
